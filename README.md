@@ -110,7 +110,7 @@ I also enjoy creating self-hosted utilities, internal developer platforms, monit
 
 | Project | Description |
 | --- | --- |
-| [**Vigil**](https://github.com/sario120/domain_ssl_checker) | SSL, domain and uptime monitoring platform — scheduled checks, multi-channel alerts, audit logging, and a public status API. |
+| [**Vigil**](https://github.com/sario120/Vigil) | SSL, domain and uptime monitoring platform — scheduled checks, multi-channel alerts, audit logging, and a public status API. |
 | [**LogLens**](https://github.com/sario120/LogLens) | Interactive log analysis platform — 7 log parsers, anomaly detection, and PDF/CSV/JSON export. Nothing stored on disk. |
 
 ---
