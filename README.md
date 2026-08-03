@@ -17,7 +17,7 @@
 
 DevOps Manager with **12+ years** of experience managing multi-cloud infrastructure, Linux platforms, CI/CD automation, cybersecurity controls, network security, observability, and production operations. I lead teams running **AWS, Azure, and DigitalOcean** environments that support multiple production clients — reducing infrastructure costs by ~30%, strengthening security posture, and improving deployment reliability across the board.
 
-Currently leading DevOps at **Love For Data**, where I design CI/CD pipelines, drive infrastructure automation, and own monitoring, incident response, and production uptime.
+I design CI/CD pipelines, drive infrastructure automation, and own monitoring, incident response, and production uptime.
 
 ---
 
@@ -84,21 +84,6 @@ Currently leading DevOps at **Love For Data**, where I design CI/CD pipelines, d
 | --- | --- | --- |
 | [**Vigil**](https://github.com/sario120/domain_ssl_checker) | Self-hosted SSL, domain & web-app uptime monitor with scheduled checks, alerts (email/Slack/Zulip), audit logging, and a public status API. | Python · Flask · PostgreSQL · Docker |
 | [**LogLens**](https://github.com/sario120/LogLens) | Lightweight self-hosted log analysis portal — paste or upload logs and get instant interactive reports with charts, 7 log parsers, anomaly detection, and PDF/CSV/JSON export. Nothing stored on disk. | Python · FastAPI · Alpine.js · Docker |
-
----
-
-### Experience
-
-| Period | Role | Company |
-| --- | --- | --- |
-| **Jul 2021 – Present** | DevOps Manager | Love For Data |
-| Jun 2019 – Jun 2021 | Senior DevOps Engineer | Love For Data |
-| Mar 2018 – Jun 2019 | System Administrator | CentricSource |
-| Oct 2017 – Feb 2018 | System Administrator | ARPATech (Pvt.) Ltd. |
-| Jul 2016 – Jul 2017 | Cloud Support Engineer | VaporVM |
-| Jun 2014 – Apr 2016 | Lead Systems Administrator | Hidaya Institute of Science & Technology |
-
-**Key highlights:** reduced infrastructure costs by ~30% through optimization & governance · built centralized monitoring & alerting (Zabbix, New Relic, CloudWatch) · delivered secure Site-to-Site VPN & network segmentation · automated infrastructure with Ansible (Terraform adoption in progress) · standardized CI/CD across dev & production.
 
 ---
 
