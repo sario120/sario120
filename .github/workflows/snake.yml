@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate the snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sario120
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=2b6cb0&color_dots=ebedf0,9be9a8,40c463,30a14e,216e39
+
+      - name: Push the generated files
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+          force_orphan: true
