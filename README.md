@@ -119,8 +119,8 @@ I also enjoy creating self-hosted utilities, internal developer platforms, monit
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sario120&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sario120&layout=compact&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://grs.quantumly.dev/api?username=sario120&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)
+![Top Languages](https://grs.quantumly.dev/api/top-langs/?username=sario120&layout=compact&hide_border=true&bg_color=00000000)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sario120&theme=github-compact)](https://github.com/sario120)
 
